@@ -37,3 +37,20 @@ Melalui website ini, pengunjung dapat mengenal Paragon sebagai perusahaan yang b
 3. Jalankan perintah *install dependencies* (jika baru pertama kali mengunduh/clone repositori):
    ```bash
    npm install
+
+   ## screenshoot
+
+### Beranda
+![Beranda](screenshoot/beranda.png)
+
+### Tentang Kami
+![Tentang Kami](screenshoot/tentangkami.png)
+
+### Layanan
+![Layanan](screenshoot/layanan.png)
+
+### Portofolio
+![Portofolio](screenshoot/galeri.png)
+
+### Kontak
+![Kontak](screenshoot/kontak.png)
