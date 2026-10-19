@@ -1,16 +1,39 @@
-# React + Vite
+**Company Profile - PT Paragon Technology and Innovation**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Nama: Syakira Azzahra Syihabudin
+NIM: 2510827
+Kelas: Pendidikan Ilmu Komputer - 3C
 
-Currently, two official plugins are available:
+Deskripsi Singkat Website
+**PT Paragon Technology and Innovation** adalah website *company profile* untuk salah satu perusahaan manufaktur kosmetik nasional terbesar di Indonesia yang menaungi brand-brand ternama seperti Wardah, Make Over, Emina, dan Kahf. Website ini dibuat untuk memperkenalkan Paragon kepada pengunjung, mulai dari profil & sejarah perusahaan, nilai-nilai utama, portofolio brand unggulan, hingga layanan dan program sosial yang dijalankan.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Melalui website ini, pengunjung dapat mengenal Paragon sebagai perusahaan yang berfokus pada inovasi produk berkualitas tinggi, aman, dan halal, serta berkomitmen menciptakan kebaikan (*creating a greater good*) bagi masyarakat dan lingkungan.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Fitur Website
 
-## Expanding the ESLint configuration
+- **Beranda (Home)**  
+  Menampilkan halaman utama yang memperkenalkan profil singkat PT Paragon Technology and Innovation, *hero banner* bertema *Technology & Innovation*, serta *highlight* produk-produk unggulan.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Tentang Kami (About)**  
+  Berisi sejarah singkat berdiri dan berkembangnya Paragon, visi, serta poin-poin misi perusahaan dalam menciptakan kebermanfaatan.
+
+- **Layanan (Services)**  
+  Menampilkan daftar layanan dan program utama perusahaan seperti *Personal Analysis* (konsultasi kecantikan), *Career Opportunities* (pengembangan Paragonian), dan *Scholarship Program* (beasiswa pendidikan), dilengkapi dengan ulasan dan testimoni dari pelanggan/klien.
+
+- **Portofolio (Galeri)**  
+  Menampilkan contoh rekam jejak proyek pengembangan brand besar (Wardah, Emina, Make Over), daftar klien & mitra kerja sama, serta galeri dokumentasi kegiatan & event penting perusahaan.
+
+- **Kontak (Contact)**  
+  Menyediakan informasi lokasi kantor pusat, alamat email, tautan media sosial resmi, dan formulir pesan langsung bagi pengunjung atau mitra yang ingin berkolaborasi.
+
+---
+
+## Cara Menjalankan Proyek
+
+1. Buka folder proyek melalui **Visual Studio Code**.
+2. Buka terminal pada folder proyek tersebut.
+3. Jalankan perintah *install dependencies* (jika baru pertama kali mengunduh/clone repositori):
+   ```bash
+   npm install
